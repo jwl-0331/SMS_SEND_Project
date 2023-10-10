@@ -1,0 +1,15 @@
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\bin\Debug\netcoreapp3.1\prohect_SMS.exe
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\bin\Debug\netcoreapp3.1\prohect_SMS.deps.json
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\bin\Debug\netcoreapp3.1\prohect_SMS.runtimeconfig.json
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\bin\Debug\netcoreapp3.1\prohect_SMS.runtimeconfig.dev.json
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\bin\Debug\netcoreapp3.1\prohect_SMS.dll
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\bin\Debug\netcoreapp3.1\prohect_SMS.pdb
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\netcoreapp3.1\prohect_SMS.Form1.resources
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\netcoreapp3.1\prohect_SMS.csproj.GenerateResource.cache
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\netcoreapp3.1\prohect_SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\netcoreapp3.1\prohect_SMS.AssemblyInfoInputs.cache
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\netcoreapp3.1\prohect_SMS.AssemblyInfo.cs
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\netcoreapp3.1\prohect_SMS.csproj.CoreCompileInputs.cache
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\netcoreapp3.1\prohect_SMS.dll
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\netcoreapp3.1\prohect_SMS.pdb
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\netcoreapp3.1\prohect_SMS.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\bin\Debug\net8.0-windows\prohect_SMS.exe
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\bin\Debug\net8.0-windows\prohect_SMS.deps.json
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\bin\Debug\net8.0-windows\prohect_SMS.runtimeconfig.json
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\bin\Debug\net8.0-windows\prohect_SMS.dll
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\bin\Debug\net8.0-windows\prohect_SMS.pdb
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\net8.0-windows\prohect_SMS.Form1.resources
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\net8.0-windows\prohect_SMS.csproj.GenerateResource.cache
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\net8.0-windows\prohect_SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\net8.0-windows\prohect_SMS.AssemblyInfoInputs.cache
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\net8.0-windows\prohect_SMS.AssemblyInfo.cs
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\net8.0-windows\prohect_SMS.csproj.CoreCompileInputs.cache
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\net8.0-windows\prohect_SMS.dll
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\net8.0-windows\refint\prohect_SMS.dll
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\net8.0-windows\prohect_SMS.pdb
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\net8.0-windows\prohect_SMS.genruntimeconfig.cache
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\net8.0-windows\ref\prohect_SMS.dll

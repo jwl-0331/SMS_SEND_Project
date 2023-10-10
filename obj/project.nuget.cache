@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bescyjvypI0HvLeROkG0bg1DUmN3H47ns92RqbYM60Goound+M5Y2vcz6YuDRqv2fK8LZw88/CBeIjBOXUgc4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mm940\\source\\repos\\prohect_SMS\\prohect_SMS\\project_SMS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mm940\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\mm940\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\mm940\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\mm940\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
