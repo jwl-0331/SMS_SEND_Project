@@ -36,7 +36,6 @@ namespace project_SMS
             msg = value;
             this.from = "01048734882";
             this.type = "sms";
-            this.subject = "";
             this.countryCode = "82";
         }
 
@@ -105,24 +104,50 @@ namespace project_SMS
             JArray toArr = new JArray();
             toArr.Add(toJson);
 
-
             // content 유효성 검사 및 bodyJson["content"] 추가
-            if(toJson["content"] != null) 
+            if (toJson["content"] != null) 
             {
                 string content = toJson["content"].ToString();
-                bodyJson.Add("content", toJson["content"]);
+                int byteCount = System.Text.Encoding.Default.GetByteCount(content);
+                if(byteCount > 0)
+                {
+                    bodyJson.Add("content", toJson["content"]);
+                    if(byteCount <= 80) //SMS
+                    {
+                        bodyJson.Add("type", "SMS");
+                        bodyJson.Add("countryCode", countryCode);
+                        bodyJson.Add("from", "01048734882");
+                        bodyJson.Add("subject", subject);
+                        bodyJson.Add("messages", toArr);
+                    }
+                    else if(byteCount > 80 && byteCount <= 2000) //LMS
+                    {
+                        bodyJson.Add("type", "LMS");
+                        bodyJson.Add("countryCode", countryCode);
+                        bodyJson.Add("from", "01048734882");
+                        if (toJson["subject"] != null)
+                        {
+                            bodyJson.Add("subject", toJson["subject"]);
+                            bodyJson.Add("messages", toArr);
+                        }
+                        else
+                        {
+                            this.Send("Input subject");
+                            return;
+                        }
+                    }
+                }
+                else
+                {
+                    this.Send("Input content");
+                    return;
+                }
             }
             else
             {
                 this.Send("Input content");
                 return;
             }
-
-            bodyJson.Add("type", type);
-            bodyJson.Add("countryCode", countryCode);
-            bodyJson.Add("from", "0104873-4882");
-            bodyJson.Add("subject", subject);
-            bodyJson.Add("messages", toArr);
 
             string postData = JsonConvert.SerializeObject(bodyJson, Formatting.Indented);
 

@@ -18,3 +18,4 @@ C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\net8.0-windows\ref
 C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\net8.0-windows\project_SMS.pdb
 C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\net8.0-windows\project_SMS.genruntimeconfig.cache
 C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\net8.0-windows\ref\project_SMS.dll
+C:\Users\mm940\source\repos\prohect_SMS\prohect_SMS\obj\Debug\net8.0-windows\project_SMS.sourcelink.json
